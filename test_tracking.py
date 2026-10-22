@@ -1,3 +1,5 @@
+# is used to test whether the system can detect a person and assign a tracking ID(for testing)
+# 11
 import time
 from tracking_manager import TrackManager
 

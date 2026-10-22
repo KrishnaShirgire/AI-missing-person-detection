@@ -1,3 +1,5 @@
+# Tests whether InsightFace produces a numerical representation of a face(for testing)
+# 06
 import cv2
 import insightface
 import numpy as np

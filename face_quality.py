@@ -1,3 +1,5 @@
+#  It helps assess whether a detected face is usable, including blur-related quality checks
+#  04
 import cv2
 
 

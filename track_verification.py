@@ -1,3 +1,6 @@
+# This file collects face-match observations for each tracking ID and decides whether
+#  enough observations have been collected to flag a possible match for human verification.
+# 13
 import time
 from collections import defaultdict
 

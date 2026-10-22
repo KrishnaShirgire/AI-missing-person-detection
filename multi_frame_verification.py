@@ -1,3 +1,6 @@
+# This file tests face matching across multiple webcam frames. Instead of relying on one face comparison,
+#  it collects up to 10 observations, calculates the average similarity, and displays a possible-match message.
+# 14
 import cv2
 import insightface
 import numpy as np

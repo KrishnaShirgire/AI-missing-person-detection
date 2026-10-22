@@ -1,3 +1,5 @@
+# to check whether InsightFace can detect and analyze a face successfully(for testing)
+#  03
 import cv2
 import insightface
 

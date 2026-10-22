@@ -1,3 +1,5 @@
+# to test libraries that they working or not (for testing)
+# 01
 import cv2
 import numpy as np
 from ultralytics import YOLO

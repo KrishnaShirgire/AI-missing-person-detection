@@ -1,3 +1,5 @@
+# it checks whether our system can compare two face embeddings and calculate how similar they are.(for testing)
+# 08
 import cv2
 import insightface
 

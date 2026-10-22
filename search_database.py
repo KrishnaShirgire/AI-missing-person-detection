@@ -1,3 +1,5 @@
+# it checks whether a face can be matched against the embeddings stored in our face database.(for testing)
+# 10
 import cv2
 import insightface
 import numpy as np

@@ -1,3 +1,5 @@
+# calculate the cosine similarity between database face and cctv face
+# 07
 import numpy as np
 
 

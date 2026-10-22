@@ -1,3 +1,6 @@
+# it takes the registered missing-person photographs, generates face embeddings using InsightFace, 
+# and saves those embeddings so the system can compare CCTV faces against them later.
+# 09
 import os
 import cv2
 import insightface

@@ -1,3 +1,5 @@
+#  We test this independently so we can debug quality filtering without running the entire surveillance system.(for testing)
+# 05
 import cv2
 import insightface
 
